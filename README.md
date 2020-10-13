@@ -2,11 +2,11 @@
 
 Datasets of .....[More information about these datasets](https://dasci.es/transferencia/dascii-hub/open-data/TAMonumets/)
 
-|Dataset|Class distribution|Download|Cite|
-|-|-|-|-|
-|[Alhambra-1.0](#alhambra-10)|426 COVID, 426 normal|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Alhambra.csv)|[Citation](#cite-monuments-as)|
-|[Mezquita-1.0](#mezquita-10)|426 COVID, 426 normal|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/MezquitaCordoba.csv)|[Citation](#cite-monuments-as)|
-|[Sagrada Familia-1.0](#safa-10)|426 COVID, 426 normal|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/SagradaFamilia.csv)|[Citation](#cite-monuments-as)|
+|Dataset|Reviews|Positive|Negative|Download|Cite|
+|-|-|-|-|-|-|
+|[Alhambra-1.0](#alhambra-10)|7217|6781|436|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Alhambra.csv)|[Citation](#cite-monuments-as)|
+|[Mezquita-1.0](#mezquita-10)|3526|3454|72|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/MezquitaCordoba.csv)|[Citation](#cite-monuments-as)|
+|[Sagrada Familia-1.0](#safa-10)|34,558|32,664|1894|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/SagradaFamilia.csv)|[Citation](#cite-monuments-as)|
 
 
 
