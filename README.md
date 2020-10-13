@@ -4,7 +4,7 @@ Datasets of .....[More information about these datasets](https://dasci.es/transf
 
 |Dataset|Class distribution|Download|Cite|
 |-|-|-|-|
-|[Alhambra-1.0](#alhambra-10)|426 COVID, 426 normal|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/tag/tamonuments)|[Citation](#cite-monuments-as)|
+|[Alhambra-1.0](#alhambra-10)|426 COVID, 426 normal|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/TripAdvisorAlhambra_20161031_ENGLISH_complete.csv)|[Citation](#cite-monuments-as)|
 |[Mezquita-1.0](#mezquita-10)|426 COVID, 426 normal|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/tag/tamonuments)|[Citation](#cite-monuments-as)|
 |[Sagrada Familia-1.0](#safa-10)|426 COVID, 426 normal|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/tag/tamonuments)|[Citation](#cite-monuments-as)|
 
