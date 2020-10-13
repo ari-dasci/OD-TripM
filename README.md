@@ -6,9 +6,9 @@ attractions over 49 markets worldwide.2 The most interesting feature of this web
 
 |Dataset|Reviews|Positive|Negative|Download|Cite|
 |-|-|-|-|-|-|
-|[Alhambra]|7217|6781|436|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Alhambra.csv)|[Citation](#cite-monuments-as)|
-|[Mezquita de Córdoba](#mezquita-10)|3526|3454|72|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/MezquitaCordoba.csv)|[Citation](#cite-monuments-as)|
-|[Sagrada Familia](#safa-10)|34,558|32,664|1894|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/SagradaFamilia.csv)|[Citation](#cite-monuments-as)|
+|Alhambra|7217|6781|436|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Alhambra.csv)|[Citation](#cite-monuments-as)|
+|Mezquita de Córdoba|3526|3454|72|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/MezquitaCordoba.csv)|[Citation](#cite-monuments-as)|
+|Sagrada Familia|34,558|32,664|1894|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/SagradaFamilia.csv)|[Citation](#cite-monuments-as)|
 
 
 
