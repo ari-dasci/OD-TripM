@@ -1,6 +1,8 @@
 # Monuments Datasets
 
-Datasets of .....[More information about these datasets](https://dasci.es/transferencia/dascii-hub/open-data/TAMonumets/)
+TripAdvisor is a travel website company which provides reviews from traveler experiences about hotels, restaurants,and monuments. This website has made up the largest
+travel community, reaching 630 million unique monthly visitors, and 350 million reviews and opinions covering more than 7.5 million accommodations, restaurants and
+attractions over 49 markets worldwide.2 The most interesting feature of this website is the large amount of opinions of million of everyday tourists that it contains. In fact, its opinions have been used as a source of data for many sentiment analysis studies. More information about these datasets: 
 
 |Dataset|Reviews|Positive|Negative|Download|Cite|
 |-|-|-|-|-|-|
