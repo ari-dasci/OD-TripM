@@ -20,7 +20,7 @@ attractions over 49 markets worldwide.2 The most interesting feature of this web
 
 ```
 @article{article,
-author = {Valdivia, Ana and Hrabova, Emiliya and Chaturvedi, Iti and Luzon, Maria and Troiano, Luigi and Cambria, Erik and Herrera, Francisco},
+author = {Valdivia, Ana and Hrabova, Emiliya and Chaturvedi, Iti and Luzon, Maria Victoria and Troiano, Luigi and Cambria, Erik and Herrera, Francisco},
 year = {2019},
 month = {03},
 pages = {3-16},
@@ -30,7 +30,7 @@ doi = {10.1016/j.neucom.2018.09.096}
 }
 
 @article{article,
-author = {Valdivia, Ana and Martínez-Cámara, Eugenio and Chaturvedi, Iti and Luzon, Maria and Cambria, Erik and Ong, Yew and Herrera, Francisco},
+author = {Valdivia, Ana and Martínez-Cámara, Eugenio and Chaturvedi, Iti and Luzon, Maria Victoria and Cambria, Erik and Ong, Yew and Herrera, Francisco},
 year = {2018},
 month = {12},
 pages = {39-52},
@@ -40,7 +40,7 @@ doi = {10.1007/s12652-018-1150-3}
 }
 
 @article{article,
-author = {Valdivia, Ana and Luzon, Maria and Cambria, Erik and Herrera, Francisco},
+author = {Valdivia, Ana and Luzon, Maria Victoria and Cambria, Erik and Herrera, Francisco},
 year = {2018},
 month = {03},
 pages = {126-135},
