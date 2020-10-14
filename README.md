@@ -2,9 +2,9 @@
 
 TripAdvisor is a travel website company which provides reviews from traveler experiences about hotels, restaurants and monuments. This website has made up the largest
 travel community, reaching 630 million unique monthly visitors, and 350 million reviews and opinions covering more than 7.5 million accommodations, restaurants and
-attractions over 49 markets worldwide. The most interesting feature of this website is the large amount of opinions of million of everyday tourists that it contains. In fact, its opinions have been used as a source of data for many sentiment analysis studies. 
+attractions over 49 markets worldwide. The most interesting feature of this website is the large amount of opinions of million of everyday tourists that it contains. 
 
-We present Tripadvisor Monuments (TripM), three new sets of reviews from Tripadvisor referred to the most popular monuments in Spain. More information about these datasets:
+We present Tripadvisor Monuments (TripM), three new sets of reviews from Tripadvisor referred to the most popular monuments in Spain. These datasets have been used as a source of data for many sentiment analysis studies in the domain of cultural monuments. More information about these datasets:
 
 |Dataset|Reviews|Positive|Negative|Download|Cite|
 |-|-|-|-|-|-|
