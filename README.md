@@ -6,14 +6,14 @@ attractions over 49 markets worldwide. The most interesting feature of this webs
 
 We present Tripadvisor Monuments (TripM), three new sets of reviews from Tripadvisor referred to the most popular monuments in Spain. These datasets have been used as a source of data for many sentiment analysis studies in the domain of cultural monuments. Each review is given by the following attributes: User name, User location, User information, Review title, TripAdvisor bubble rating, Review date and Review. More information about these datasets:
 
-|Dataset|Reviews|Positive|Negative|Download|Cite|
-|-|-|-|-|-|-|
-|Alhambra|7217|6781|436|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Alhambra.csv)|[Citation](#cite-monuments-as)|
-|Mezquita de Córdoba|3526|3454|72|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/MezquitaCordoba.csv)|[Citation](#cite-monuments-as)|
-|Sagrada Familia|34,558|32,664|1894|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/SagradaFamilia.csv)|[Citation](#cite-monuments-as)|
-|Grand Canal|10,730|||[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/GrandCanal.csv)|[Citation](#cite-monuments-as)|
-|Trevi Fountain|15,572|||[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Trevi_Fountain.csv)|[Citation](#cite-monuments-as)|
-|Pantheon|17,279|||[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Pantheon.csv)|[Citation](#cite-monuments-as)|
+|Dataset|Reviews|Positive|Negative|Neutral|Download|Cite|
+|-|-|-|-|-|-|-|
+|Alhambra|7217|6781|436||[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Alhambra.csv)|[Citation](#cite-monuments-as)|
+|Mezquita de Córdoba|3526|3454|72||[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/MezquitaCordoba.csv)|[Citation](#cite-monuments-as)|
+|Sagrada Familia|34,558|32,664|1894||[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/SagradaFamilia.csv)|[Citation](#cite-monuments-as)|
+|Grand Canal|14,484|13,832|104|548|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/GrandCanal.csv)|[Citation](#cite-monuments-as)|
+|Trevi Fountain|25,391|19,514|2,513|3,363|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Trevi_Fountain.csv)|[Citation](#cite-monuments-as)|
+|Pantheon|24,829|23,635|107|1087|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Pantheon.csv)|[Citation](#cite-monuments-as)|
 
 
 
