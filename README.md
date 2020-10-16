@@ -8,11 +8,11 @@ We present Tripadvisor Monuments (TripM), three new sets of reviews from Tripadv
 
 |Dataset|Reviews|Positive|Negative|Neutral|Download|Cite|
 |-|-|-|-|-|-|-|
-|Alhambra|7217|6781|436||[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Alhambra.csv)|[Citation](#cite-monuments-as)|
+|Alhambra|7217|6781|143|293|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Alhambra.csv)|[Citation](#cite-monuments-as)|
 |Mezquita de Córdoba|3526|3454|72||[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/MezquitaCordoba.csv)|[Citation](#cite-monuments-as)|
 |Sagrada Familia|34,558|32,664|1894||[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/SagradaFamilia.csv)|[Citation](#cite-monuments-as)|
 |Grand Canal|14,484|13,832|104|548|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/GrandCanal.csv)|[Citation](#cite-monuments-as)|
-|Trevi Fountain|25,391|19,514|2,513|3,363|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Trevi_Fountain.csv)|[Citation](#cite-monuments-as)|
+|Trevi Fountain|25,391|19,515|2,513|3,363|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Trevi_Fountain.csv)|[Citation](#cite-monuments-as)|
 |Pantheon|24,829|23,635|107|1087|[⤓ Download](https://github.com/ari-dasci/OD-TripM/releases/download/tamonumets/Pantheon.csv)|[Citation](#cite-monuments-as)|
 
 
